@@ -1,0 +1,10 @@
+# Biến môi trường chứa thông tin nhạy cảm
+.env
+.env.*
+!.env.example
+
+# Hệ điều hành / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
